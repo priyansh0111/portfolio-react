@@ -11,7 +11,7 @@ const SocialLinks = () => {
           Linkedin<FaLinkedin size={30}></FaLinkedin>
         </>
       ),
-      href: "https://linkedin.com",
+      href: "https://www.linkedin.com/in/priyansh-verma-ab47a1237/",
       style: "rounded-tr-md",
     },
     {
@@ -21,7 +21,7 @@ const SocialLinks = () => {
           Github<FaGithub size={30}></FaGithub>
         </>
       ),
-      href: "https://github.com",
+      href: "https://github.com/priyansh0111",
     },
     {
       id: 3,
@@ -30,7 +30,7 @@ const SocialLinks = () => {
           Mailto<HiOutlineMail size={30}></HiOutlineMail>
         </>
       ),
-      href: "mailto:foo@gmail.com",
+      href: "mailto:priyanshverma002@gmail.com",
     },
     {
       id: 4,

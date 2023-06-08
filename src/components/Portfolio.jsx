@@ -2,6 +2,7 @@ import React from "react";
 import portfolio from "../assets/portfolio/portfolio-app.png";
 import blog from "../assets/portfolio/blog-app.png";
 import todolist from "../assets/portfolio/todolist-app.png";
+import taskmanager from "../assets/portfolio/task-manager.png";
 
 function Portfolio() {
   const portfolios = [
@@ -14,13 +15,20 @@ function Portfolio() {
     },
     {
       id: 2,
+      src: taskmanager,
+      demo: "https://task-manager-6eqb.onrender.com/",
+      href: "https://github.com/priyansh0111/task-manager",
+      style: "",
+    },
+    {
+      id: 3,
       src: blog,
       demo: "",
       href: "https://github.com/priyansh0111/Blog-Application",
       style: "line-through",
     },
     {
-      id: 3,
+      id: 4,
       src: todolist,
       demo: "",
       href: "https://github.com/priyansh0111/ToDoList",
